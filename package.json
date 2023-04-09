@@ -1,6 +1,6 @@
 {
   "name": "chatified",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A tool to build a project structure tree and extract text from all files in a directory into a single file for ChatGPT.",
   "main": "index.js",
   "bin": {
