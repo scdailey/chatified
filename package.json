@@ -1,19 +1,23 @@
 {
   "name": "chatified",
-  "version": "1.0.0",
-  "description": "A tool to extract text from all files in a directory, while ignoring files specified in .gitignore",
+  "version": "1.0.2",
+  "description": "A tool to build a project structure tree and extract text from all files in a directory into a single file for ChatGPT.",
   "main": "index.js",
   "bin": {
     "chatified": "index.js"
   },
   "keywords": [
-    "chatified",
+    "chatgpt",
     "text extraction",
-    "gitignore"
+    "project structure"
   ],
   "dependencies": {
     "ignore": "^5.1.8"
   },
-  "author": "Your Name",
+  "author": "Steven Dailey",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scdailey/chatified"
+  },
   "license": "MIT"
 }
