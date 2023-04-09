@@ -1,0 +1,19 @@
+{
+  "name": "chatified",
+  "version": "1.0.0",
+  "description": "A tool to extract text from all files in a directory, while ignoring files specified in .gitignore",
+  "main": "index.js",
+  "bin": {
+    "chatified": "index.js"
+  },
+  "keywords": [
+    "chatified",
+    "text extraction",
+    "gitignore"
+  ],
+  "dependencies": {
+    "ignore": "^5.1.8"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
